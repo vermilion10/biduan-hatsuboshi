@@ -1,0 +1,111 @@
+{
+  "labels": {
+    "grade": "Grade",
+    "yearPrefix": "Year ",
+    "age": "Age",
+    "ageSfx": " yo",
+    "height": "Height",
+    "weight": "Weight",
+    "birthday": "Birthday",
+    "blood": "Blood Type",
+    "horoscope": "Horoscope",
+    "sizes": "3 Sizes",
+    "hand": "Hand",
+    "home": "Home",
+    "hobbies": "Hobbies",
+    "skills": "Skills"
+  },
+  "idols": {
+    "saki": {
+      "bio": "Saki is a first-year student who scored the highest on the entrance exam. A former child athlete who is extremely competitive and hates losing. Since childhood, she has been a prodigy who learns quickly and excels at everything. She and her younger sister Ume are rivals and close friends in various sports; Saki greatly respects and is also slightly afraid of her sister's talent.",
+      "quote": "I love matches! I love winning! And I absolutely~ hate to lose!!",
+      "hobbies": "Matches in general",
+      "skills": "Exercise in general, housework in general, massages",
+      "hometown": "Aichi"
+    },
+    "temari": {
+      "bio": "Temari was once called the top idol of middle school and is now known for being cold and perfectionistic. She actually has a spoiled and lazy side that causes problems. She wants to become a top idol so she can like herself and escape the self she hates.",
+      "quote": "My dream? No, it's a goal that I will absolutely achieve.",
+      "hobbies": "Eating delicious food (sealed)",
+      "skills": "Singing",
+      "hometown": "Kyoto"
+    },
+    "kotone": {
+      "bio": "Kotone is a materialistic girl who dreams of becoming an idol only to make money and turn her life around. She is very confident in her cute face but has low self-esteem about her skills. She feels a bit annoyed by Sena who always praises her excessively.",
+      "quote": "I love being praised! I love those who praise me! And I love~ all of my fans♪",
+      "hobbies": "Making money",
+      "skills": "Dancing, remembering people's faces and names",
+      "hometown": "Saitama"
+    },
+    "mao": {
+      "bio": "Mao is a third-year student who wants to become a cool idol. She is the dormitory president and very attentive to her juniors. They call her the 'Little Prince'. She has been active as a child actor since childhood and greatly admires opera stars.",
+      "quote": "──I'm 'cool' because I am 'cute'. I'll try to do it my way.",
+      "hobbies": "Taking care of others, theater-going",
+      "skills": "Martial arts, manual dexterity",
+      "hometown": "Hyogo"
+    },
+    "lilja": {
+      "bio": "Lilja is a new student from abroad (Sweden). She has no experience in singing or dancing and always appears lacking in confidence. However, her passion for becoming an idol is very strong and she trains diligently. She has promised Sumika to take the stage together.",
+      "quote": "I think… I can do something like this. But I'll make this dream of mine come true.",
+      "hobbies": "Making sweets, watching anime",
+      "skills": "Making sweets, playing games",
+      "hometown": "Sweden"
+    },
+    "china": {
+      "bio": "China is a spoiled and innocent noble girl. She enrolled in this school because she dreams of becoming a great idol. By her own admission, her ability as an idol is the lowest in the entire school.",
+      "quote": "My abilities in being an idol? Well, of course, the lowest by far!",
+      "hobbies": "Drawing",
+      "skills": "Greeting people cheerfully, being liked by animals",
+      "hometown": "Kanagawa"
+    },
+    "sumika": {
+      "bio": "Sumika is a gyaru girl who likes skipping classes and lessons. Although she looks aloof, she is actually cheerful and gets along with everyone easily. She once succeeded in international ballet, but now she prefers to support her best friend Lilja who is working hard.",
+      "quote": "Let me show you how I really dance♪",
+      "hobbies": "Karaoke, social media",
+      "skills": "Flexible body",
+      "hometown": "Hokkaido"
+    },
+    "hiro": {
+      "bio": "Hiro is a mysterious genius girl. She gets bored with things that are too easy and actually enjoys facing suffering and heavy challenges. She entered this school because 'idol seems the least suitable for me'.",
+      "quote": "Producer, you're so cruel. A demon. And devil. That's what I like about…you.",
+      "hobbies": "Challenging things I'm weak at, raising houseplants",
+      "skills": "General academics, physics, mathematics, puzzles",
+      "hometown": "Akita"
+    },
+    "rinami": {
+      "bio": "Rinami is a mature and responsible third-year student. She is like a big sister to everyone in the dormitory. She once joined a unit but the results were unsatisfactory. Now she serves as the secretary of the student council.",
+      "quote": "Look, your necktie is crooked. ──Ok, that's better.",
+      "hobbies": "Café hopping, collecting cosmetics",
+      "skills": "Cooking, sewing, handicrafts",
+      "hometown": "Fukuoka"
+    },
+    "ume": {
+      "bio": "Ume is Saki's younger sister who was accepted through the backup route. She is full of energy, athletic, and loves her sister very much. Saki is her idol, rival, and main goal. Thanks to her sister's support, Ume's idol talent is starting to blossom.",
+      "quote": "My dream is to beat my sister!",
+      "hobbies": "Sports in general, massages",
+      "skills": "Competing with my sister",
+      "hometown": "Aichi"
+    },
+    "misuzu": {
+      "bio": "Misuzu is a calm and caring girl. She likes taking care of others and pampering her friends. She treats Temari (her spoiled best friend) like a younger sister or her own child.",
+      "quote": "…What nice sunshine. Why don't you rest here?",
+      "hobbies": "Napping, walking",
+      "skills": "Cooking, flower arranging, accurately reading her biological clock",
+      "hometown": "Kyoto"
+    },
+    "sena": {
+      "bio": "Sena is the highly respected Student Council President of Hatsuboshi Gakuen. She is the granddaughter of the school principal and has been trained as an elite idol since childhood. She has the ability to spot hidden idol talent at a glance (she immediately liked Kotone).",
+      "quote": "I'm Sena Juo, the student council president of Hatsuboshi Gakuen.",
+      "hobbies": "Lessons, finding talented idols",
+      "skills": "Recognizing idol talents",
+      "hometown": "Tokyo"
+    },
+    "tsubame": {
+      "bio": "Tsubame is the Vice President of the Student Council and the school's number 2 idol. She is extremely proud of her own abilities and acts arrogantly. She is strict with herself and others, but actually very caring. She considers Sena (her childhood friend) her main rival and is determined to defeat her to become the 'Number One Star'.",
+      "quote": "Don't compare me to the average idol. My only rival is her.",
+      "hobbies": "Calligraphy, Japanese history, reading",
+      "skills": "Secretarial skills in general, mathematics, calligraphy",
+      "hometown": "Tokyo"
+    }
+  }
+}

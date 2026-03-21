@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { IdolShowcase } from '../components/IdolShowcase';
+import { idols } from '../data/idols';
+---
+
+<Layout title="Gakuen Idolmaster Biography">
+	<main class="w-full overflow-hidden">
+		<IdolShowcase client:load idols={idols} />
+	</main>
+</Layout>

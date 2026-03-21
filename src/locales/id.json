@@ -1,0 +1,111 @@
+{
+  "labels": {
+    "grade": "Tingkat",
+    "yearPrefix": "Tahun ",
+    "age": "Umur",
+    "ageSfx": " thn",
+    "height": "Tinggi",
+    "weight": "Berat",
+    "birthday": "Ultah",
+    "blood": "Gol. Darah",
+    "horoscope": "Zodiak",
+    "sizes": "3 Ukuran",
+    "hand": "Dominan",
+    "home": "Kota Asal",
+    "hobbies": "Hobi",
+    "skills": "Keahlian"
+  },
+  "idols": {
+    "saki": {
+      "bio": "Saki adalah siswi tahun pertama peraih nilai tertinggi ujian masuk. Mantan atlet cilik yang sangat kompetitif dan tak mau kalah. Sejak kecil ia adalah anak ajaib yang cepat belajar dan mahir di segala hal. Ia dan adiknya Ume adalah rival sekaligus sahabat karib dalam berbagai olahraga; Saki sangat menghargai dan sekaligus takut akan bakat adiknya.",
+      "quote": "Aku suka pertandingan! Aku suka menang! Dan aku sangat benci kekalahan!!",
+      "hobbies": "Bertanding secara umum",
+      "skills": "Olahraga secara umum, pekerjaan rumah, memijat",
+      "hometown": "Aichi"
+    },
+    "temari": {
+      "bio": "Pernah dijuluki idol nomor satu SMP, ia adalah mantan elit yang kini dikenal dingin dan perfeksionis. Ternyata ia punya sisi manja dan pemalas yang suka bikin masalah. Ia ingin menjadi idol top agar bisa menyukai dirinya sendiri dan lepas dari diri yang ia benci.",
+      "quote": "Mimpi? Bukan, ini adalah tujuan yang pasti akan kucapai.",
+      "hobbies": "Makan makanan lezat (disegel)",
+      "skills": "Bernyanyi",
+      "hometown": "Kyoto"
+    },
+    "kotone": {
+      "bio": "Kotone adalah gadis materialistis yang bermimpi jadi idol hanya untuk menghasilkan uang dan balikkan nasib. Ia sangat percaya diri dengan wajah imutnya, tapi rendah diri soal prestasi. Ia agak risih dengan Sena yang selalu memujinya berlebihan.",
+      "quote": "Aku suka dipuji! Aku suka orang yang memujiku! Aku sangat menyayangi semua penggemarku♪",
+      "hobbies": "Mencari uang",
+      "skills": "Menari, mengingat wajah dan nama orang",
+      "hometown": "Saitama"
+    },
+    "mao": {
+      "bio": "Mao adalah siswi tahun ketiga yang ingin jadi idol keren. Ia ketua asrama dan sangat perhatian terhadap junior-juniornya. Mereka memanggilnya 'Pangeran Kecil'. Sejak kecil ia sudah aktif sebagai aktor cilik dan sangat mengagumi bintang opera.",
+      "quote": "Karena 'imut', jadinya 'keren'. Aku akan melakukannya dengan gayaku sendiri.",
+      "hobbies": "Merawat orang lain, menonton teater",
+      "skills": "Seni bela diri, keterampilan perakitan manual",
+      "hometown": "Hyogo"
+    },
+    "lilja": {
+      "bio": "Lilja adalah siswi baru dari Swedia. Ia tidak punya pengalaman nyanyi atau menari dan selalu kelihatan kurang percaya diri. Meski begitu, semangatnya untuk jadi idol sangat besar dan ia rajin berlatih. Ia sudah berjanji dengan Sumika untuk naik panggung bersama.",
+      "quote": "Aku rasa… aku bisa melakukan hal seperti ini. Tapi aku akan mewujudkan impianku ini.",
+      "hobbies": "Membuat kue, menonton anime",
+      "skills": "Membuat permen manis, bermain game",
+      "hometown": "Swedia"
+    },
+    "china": {
+      "bio": "China adalah putri bangsawan yang manja dan polos. Ia masuk sekolah ini karena bermimpi jadi idol yang hebat. Menurutnya sendiri, kemampuannya sebagai idol adalah yang paling rendah di seluruh sekolah.",
+      "quote": "Kemampuanku sebagai seorang idola? Yah, tentu saja, yang paling rendah sejauh ini!",
+      "hobbies": "Menggambar",
+      "skills": "Menyapa orang dengan ceria, disukai oleh hewan",
+      "hometown": "Kanagawa"
+    },
+    "sumika": {
+      "bio": "Sumika adalah gadis gyaru yang suka bolos pelajaran dan les. Meski kelihatan cuek, ia sebenarnya ceria dan mudah berteman dengan siapa saja. Dulu ia pernah sukses di balet internasional, tapi sekarang ia lebih suka mendukung sahabatnya Lilja yang sedang berjuang keras.",
+      "quote": "Akan kutunjukkan padamu keseriusanku saat menari♪",
+      "hobbies": "Karaoke, media sosial",
+      "skills": "Tubuh yang lentur",
+      "hometown": "Hokkaido"
+    },
+    "hiro": {
+      "bio": "Hiro adalah gadis jenius yang misterius. Ia bosan dengan hal-hal yang terlalu mudah dan justru senang saat menghadapi penderitaan serta tantangan berat. Ia masuk sekolah ini karena 'idol sepertinya paling tidak cocok untukku'.",
+      "quote": "Produser itu jahat. Iblis. Setan... Aku suka yang seperti itu.",
+      "hobbies": "Menantang hal-hal yang menjadi kelemahanku, merawat tanaman hias",
+      "skills": "Akademik umum, fisika, matematika, teka-teki logika",
+      "hometown": "Akita"
+    },
+    "rinami": {
+      "bio": "Rinami adalah siswi tahun ketiga yang dewasa dan bertanggung jawab. Ia seperti kakak bagi semua orang di asrama. Dulu pernah bergabung unit tapi hasilnya kurang memuaskan. Sekarang ia menjabat sebagai sekretaris OSIS.",
+      "quote": "Sini, dasimu miring. ——Nah, sudah rapi.",
+      "hobbies": "Jelajah kafe, mengoleksi kosmetik",
+      "skills": "Memasak, menjahit, kerajinan tangan",
+      "hometown": "Fukuoka"
+    },
+    "ume": {
+      "bio": "Ume adalah adik Saki yang diterima lewat jalur cadangan. Ia penuh energi, atletis, dan sangat mencintai kakaknya. Saki adalah idolanya, rivalnya, dan tujuan utamanya. Berkat dukungan kakaknya, bakat idol Ume mulai terbuka.",
+      "quote": "Impianku adalah mengalahkan kakakku!",
+      "hobbies": "Olahraga secara umum, dipijat",
+      "skills": "Bersaing melawan kakak perempuan",
+      "hometown": "Aichi"
+    },
+    "misuzu": {
+      "bio": "Misuzu adalah gadis yang tenang dan penyayang. Ia suka mengurus orang lain dan memanjakan teman-temannya. Ia memperlakukan Temari seperti adik atau anak sendiri.",
+      "quote": "…Sinar mataharinya indah sekali. Kenapa kamu tidak beristirahat di sini saja?",
+      "hobbies": "Tidur siang, berjalan-jalan keliling",
+      "skills": "Memasak, merangkai bunga, membaca jam biologis dengan presisi",
+      "hometown": "Kyoto"
+    },
+    "sena": {
+      "bio": "Sena adalah Ketua OSIS Hatsuboshi Gakuen yang sangat dihormati semua orang. Ia cucu kepala sekolah dan sudah dididik sebagai elit idol sejak kecil. Ia punya kemampuan melihat bakat idol orang lain dengan sekali pandang (ia langsung suka Kotone).",
+      "quote": "Saya Sena Juo, ketua OSIS Hatsuboshi Gakuen.",
+      "hobbies": "Pelajaran harian, mencari idol berbakat",
+      "skills": "Mendeteksi bakat idola terpendam",
+      "hometown": "Tokyo"
+    },
+    "tsubame": {
+      "bio": "Tsubame adalah Wakil Ketua OSIS dan idol nomor 2 di sekolah. Ia sangat bangga dengan kemampuannya sendiri dan bersikap angkuh. Ia keras terhadap diri sendiri maupun orang lain, tapi sebenarnya sangat perhatian. Ia menganggap Sena sebagai rival utama dan bertekad akan mengalahkannya menjadi 'Bintang Nomor Satu'.",
+      "quote": "Jangan bandingkan aku dengan idol pada umumnya. Satu-satunya sainganku adalah dia.",
+      "hobbies": "Kaligrafi kuno, sejarah Jepang, membaca",
+      "skills": "Keterampilan sekretariat umum, matematika kalkulus, kaligrafi",
+      "hometown": "Tokyo"
+    }
+  }
+}
